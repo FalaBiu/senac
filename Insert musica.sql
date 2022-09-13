@@ -79,7 +79,18 @@ values (27, 'Segundo Sol', 4.13);
 insert into musica(CODIGO_MUSICA, NOME_MUSICA, DURACAO)
 values (28, 'Nega do cabelo duro', 3.43);
 
-select * from musica
+insert into musica(CODIGO_MUSICA, NOME_MUSICA, DURACAO)
+values (25, 'Facil', 3.30);
+
+insert into musica(CODIGO_MUSICA, NOME_MUSICA, DURACAO)
+values (26, 'Sol e Mar', 3.01);
+
+insert into musica(CODIGO_MUSICA, NOME_MUSICA, DURACAO)
+values (27, 'Segundo Sol', 4.13);
+
+insert into musica(CODIGO_MUSICA, NOME_MUSICA, DURACAO)
+values (28, 'Nega do cabelo duro', 3.43);
+
 
 
 
